@@ -4,9 +4,8 @@
 **Project Name**: BigMart Sales Forecasting using Machine Learning  
 **Intern**: Abraraw Ayal  
 **University**: Bahir Dar University  
-**Domain**: Transport and Logistics (Applied in Retail Forecasting Context)  
 **GitHub**: [Abre1234](https://github.com/Abre1234)  
-**LinkedIn**: [Abree1234](https://www.linkedin.com/in/Abree1234)
+**LinkedIn**: [Abree1234](https://www.linkedin.com/in/Abre1234)
 
 ---
 
